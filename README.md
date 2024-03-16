@@ -1,29 +1,11 @@
-<h1 align="center"> Hello, everyone <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Hi all <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="15"/>
 
-<h3 align="center">My name is Aidar. I'm a python backend programmer.</h3>
+My name is Aidar.
 
-```python
-class AboutAidar:
-    name = 'Aidar'
-    email = 'gluhovkich@gmail.com'
-    telegram_link = 'https://t.me/DrDyuu'
-    programming_language = 'python'
-    web_frameworks = ['FastAPI', 'flask']
-    other_frameworks = 'aigram'
-    orm = 'SQLAlchemy'
-    database = 'PostgreSQL'
-    other_technology = 'HTML', 'CSS', 'SQL'
+I'm studying Applied mathematics and computer science program.
 
+I currently live in Kazan, Russia.
 
-programmer = AboutAidar()
+At the moment, I'm well versed in the Python programming language, and in technologies for back-end development such as: SQL, HTML, Docker, PostgresSQL.
 
-print(f'''My name is {programmer.name}. 
-I love programming and studying it from 2021 year. 
-Currently I'm interesting in backend-programming.
----------------------------------------------------------------------------
-
-I realy like chating with different people, therefore you will you write on:
-Email - {programmer.email}
-Telegram - {programmer.telegram_link}
-''')
-```
+I'm also very interested in the topic of compilers and interpreters. I'm actively studying how they work.
